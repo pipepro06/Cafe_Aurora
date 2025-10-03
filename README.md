@@ -1,4 +1,6 @@
 Café Aurora ☕
+![Logo](./assets/img/logo.png)
+
 
 Bienvenido al proyecto Café Aurora.
 
@@ -11,3 +13,4 @@ soy un estudiante de ingenieria de sistemas
 ## authors 
 
 "Adrian Felipe Navarro-192603" 
+
