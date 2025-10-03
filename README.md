@@ -1,10 +1,13 @@
-# Cafe_Aurora
+Café Aurora ☕
 
-proyecto en desarrollo en clase 
+Bienvenido al proyecto Café Aurora.
+
+Este repositorio contiene la landing page del proyecto.
 
 
 ## ⚔️ about me 
 soy un estudiante de ingenieria de sistemas 
 
 ## authors 
-"adrian felipe navarro-192603" 
+
+"Adrian Felipe Navarro-192603" 
